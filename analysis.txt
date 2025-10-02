@@ -1,0 +1,9 @@
+
+Extension Analyzed
+- Name:Fonts Ninja  
+- Publisher: Fonts Ninja SAS (official developer)  
+- Purpose: Identifies fonts used on websites, allows previews and testing in design tools.  
+- Permissions: Access to websites (to read CSS/font information).  
+- Reviews/Trust: Verified and widely used on Chrome Web Store.  
+- Risk Level: Low – requires access to websites, but this is necessary for its function.  
+- Conclusion: Safe and trusted extension. 
